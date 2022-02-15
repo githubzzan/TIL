@@ -10,12 +10,40 @@
 
 ## GIT
 
-- CLI
-- Visual Studio Code
-- Markdown
+- CLI Day01
+- Visual Studio Code Day01
+- Markdown Day01
+- Branch Day03
 
 
 
 ## GITHUB
 
-- 원격저장소
+- 원격저장소Day02
+  - 내 컴퓨터 ↔ Github(원격 저장소) ↔ 강의장 컴퓨터
+
+
+
+# 파이썬
+
+
+
+## 판다스(Pandas)
+
+- Pandas day5
+
+- 데이터 시각화 day6~7
+
+
+
+## 크롤링
+
+- request day8
+- selenium day8
+
+
+
+## 머신러닝
+
+- 알고리즘 : 분류-의사결정트리
+- 데이터 전처리(타이타닉 생존자 예측)
